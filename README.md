@@ -1,6 +1,7 @@
-
-
 #Home Price Prediction
+
+
+
 
 Welcome to the Home Price Prediction project! This project focuses on predicting home prices in specific areas such as Bahria Town, DHA, and Clifton in Karachi.
 
