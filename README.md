@@ -27,5 +27,5 @@ Contributing
 Contributions to this project are welcome! If you have any ideas for improvements or enhancements, feel free to submit a pull request or open an issue to discuss them.
 
 Acknowledgments
-Special thanks to Google for providing the dataset used in this project.
+Special thanks to Keggle for providing the dataset used in this project.
 Thanks to the open-source community for developing libraries and tools that made this project possible.
